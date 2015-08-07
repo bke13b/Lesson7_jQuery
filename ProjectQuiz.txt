@@ -1,9 +1,9 @@
-*****************************************************
-Project Name:  Recipe Display Application
-Author: 
-Date:   
+************************************************************************
+Project Name:  Recipe Display Application  --  Project Quiz
+Author: Berline Exantus
+Date:   08/06/15
 Participation Assignment (25 points)
-*****************************************************
+************************************************************************
 
 Instructions:  
 Answer the following questions for Lesson 7 Assignment
@@ -13,7 +13,7 @@ Question #1:  (5 points)
 ++++++++++++
 Why should you ensure that the script element that links to the jQuery library file comes before any other script element for a .js file that includes jQuery code?
 
-
+To ensure that the actions are "played" out, jQuery must be detected before javascript to avoid any errors.
 
 
 ++++++++++++
@@ -21,7 +21,7 @@ Question #2:  (5 points)
 ++++++++++++
 Why should you avoid including jQuery in a project if you don't need it?
 
-
+jQuery 
 
 
 
@@ -31,7 +31,7 @@ Question #3:  (5 points)
 ++++++++++++
 How does every jQuery statement start?
 
-
+"$"
 
 
 
@@ -39,3 +39,9 @@ How does every jQuery statement start?
 Question #4: (10 points)
 ++++++++++++
 What is a Content Delivery Network (CDN)?  List and explain at least FOUR advantages in using a CDN.
+A network of servers that distribute a large amount of data across the internet.
+-the codes that are shared in the libraries make data easier to access, there's less of a need for the servers to load information that is already readily available
+-since the content of the libraries overlap, the size of packages that need to be sent are smaller
+-since the information needed to get the client side up and running is easier to access the amount of time spent on loading the site is smaller.
+- easier to maintain, if the shared content of the libraries are distrubruted by a shared network then it's easier to update said network with new information rather than indivudually.
+

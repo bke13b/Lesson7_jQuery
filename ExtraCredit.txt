@@ -1,0 +1,6 @@
+********************************************************************************
+Project Name:  Recipe Display Application - Extra Credit Assignment  (+4 points)
+Author: Berline Exantus
+Date:  08/06/15
+
+********************************************************************************
